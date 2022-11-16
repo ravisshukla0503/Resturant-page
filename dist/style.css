@@ -1,0 +1,123 @@
+#container{
+    background-color: cornsilk;
+    height: 950px;
+}
+#navbar{
+    height: 50px;
+    background-color: gray;
+    text-align: center;
+    padding-top: 15px;
+}
+.button{
+    font-size: xx-large;
+    margin: 10px;
+    color: white;
+}
+#content{
+    padding-top: 50px;
+    padding-left: 250px;
+    padding-right: 350px;
+}
+#sub-content{
+    height: 820px;
+    width: 1000px;
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#heading{
+    background-color: darkkhaki;
+    border-radius: 25px;
+    text-align: center;
+    font-size: x-large;
+    border: 4px solid black;
+    margin-bottom: 50px;
+}
+#about{
+    background-color: darkkhaki;
+    height: 210px;
+    width: 1000px;
+    border: 4px solid black;
+    border-radius: 25px;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 30px;
+}
+#timings{
+    background-color: darkkhaki;
+    height: 230px;
+    width: 1000px;
+    border: 4px solid black;
+    border-radius: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: large;
+    margin-bottom: 30px;
+}
+#location{
+    background-color: darkkhaki;
+    height: 90px;
+    width: 1000px;
+    border: 4px solid black;
+    border-radius: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#contact-us{
+    background-color: darkkhaki;
+    height: 90px;
+    width: 1000px;
+    border: 4px solid black;
+    border-radius: 25px;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 50px;
+}
+#employee{
+    background-color: darkkhaki;
+    height: 180px;
+    padding-left: 400px;
+    border: 4px solid black;
+    border-radius: 25px;
+    font-size: large;
+    margin: 30px;
+}
+#menu-container{
+    background-color: cornsilk;
+    height: 1600px;
+}
+#menu{
+    padding-top: 50px;
+    padding-left: 250px;
+    padding-right: 350px;
+}
+#sub-menu{
+    height: 1550px;
+    width: 1000px;
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#menu-h1{
+    background-color: darkkhaki;
+    height: 90px;
+    width: 1000px;
+    border: 4px solid black;
+    border-radius: 25px;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 50px;
+}
+#menu-items{
+    background-color: darkkhaki;
+    height: 120px;
+    width: 1000px;
+    border: 4px solid black;
+    border-radius: 25px;
+    text-align: center;
+    font-size: large;
+    margin-bottom: 50px;
+    color: w;
+}
